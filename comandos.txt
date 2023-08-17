@@ -1,0 +1,67 @@
+  git clone https://github.com/Alubni/Checkpoint-18-08-AdrianaLubniewski.git~
+  git clone https://github.com/Alubni/Checkpoint-18-08-AdrianaLubniewski.git
+  touch main.js index.html
+  git add .
+  git status
+  pwd
+  ls
+  cd Checkpoint-18-08-AdrianaLubniewski/
+  pwd
+  git status
+  touch main.js index.html
+  ls
+  git status
+  git add .
+  git commit -m "commit 01 de AdrianaLubniewski"
+  git push
+  git user
+  git --help
+  git push
+  git clone git@github.com:Alubni/Checkpoint-18-08-AdrianaLubniewski.git
+  ls
+  cd checkpoint-18-08-AdrianaLubniewski
+  cd Checkpoint-18-08-AdrianaLubniewski/
+  touch main.js index.html
+  git status
+  git add .
+  git commit -m "commit 01 de AdrianaLubniewski"
+  git push
+  git status
+  git branch feature
+  git checkout feature
+  mkdir Hardware Software SguridadInformatica
+  cd Hardware/
+  touch resumen.txt
+  ls
+  cd ..
+  ls
+  cd..
+  cd ..
+  ls
+  cd Checkpoint-18-08-AdrianaLubniewski/
+  cd Software
+  touch resumen.txt
+  cd ..
+  cd..
+  cd ..
+  ls
+  cd Checkpoint-18-08-AdrianaLubniewski/
+  cd SguridadInformatica/
+  cd resumen.txt
+  touch resumen.txt
+  ls
+  cd ..
+  git status
+  git add .
+  git commit -m"commit 02 de AdrianaLubniewski"
+  git push
+  git push --set-upstream origin feature
+  git checkout main
+  mv main.js resumenHardware.txt
+  ls
+  mv index.html resumenSoftware.txt
+  git branch
+  touch comandos.txt
+  history
+
+
